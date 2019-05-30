@@ -6,7 +6,7 @@ https://developer.ibm.com/exchanges/models/
 
 ## Sample Jupyter notebook explaining how to access the models: 
 
-1. https://github.com/CODAIT/MAX-SVL-Workshop/blob/master/Exploring_MAX/Exploring%20MAX.ipynb
+https://github.com/CODAIT/MAX-SVL-Workshop/blob/master/Exploring_MAX/Exploring%20MAX.ipynb
 
 ## Long-running instances and sample app: 
 

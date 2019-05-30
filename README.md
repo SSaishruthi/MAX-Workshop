@@ -57,7 +57,7 @@ git clone https://github.com/IBM/max-tutorial-app-python.git
 
 2. Open app.py in a suitable editor and complete `TODO T1` and `TODO T2`.
 
-3. Run `python app.py`
+3. Run `python app.py --ml-endpoint http://max-object-detector.max.us-south.containers.appdomain.cloud`
 
 Solution:
 

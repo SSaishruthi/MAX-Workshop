@@ -55,6 +55,11 @@ Demo notebook for object detector to draw bounding box: https://github.com/IBM/M
 git clone https://github.com/IBM/max-tutorial-app-python.git
 ```
 
+Install dependencies
+```
+pip install -r requirements.txt
+```
+
 2. Open app.py in a suitable editor and complete `TODO T1` and `TODO T2`.
 
 3. Run `python app.py --ml-endpoint http://max-object-detector.max.us-south.containers.appdomain.cloud`

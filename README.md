@@ -51,6 +51,8 @@ Demo notebook for object detector to draw bounding box: https://github.com/IBM/M
 
 1. Clone the repository.
 
+App: https://github.com/IBM/max-tutorial-app-python
+
 ```
 git clone https://github.com/IBM/max-tutorial-app-python.git
 ```
@@ -66,8 +68,12 @@ pip install -r requirements.txt
 
 Solution:
 
+TODO T1
+https://github.com/IBM/max-tutorial-app-python/blob/14136e8b4da32f5541d8bb0370c3082e8da512a3/app.py#L118
 Fill **TODO T1** with model URL which is ‘/model/predict’
 
+TODO T2
+https://github.com/IBM/max-tutorial-app-python/blob/14136e8b4da32f5541d8bb0370c3082e8da512a3/app.py#L145
 Model API returns predictions in JSON format. To retrieve result, replace **TODO T2** With JSON key ‘Predictions’. 
 
 

@@ -10,7 +10,7 @@ https://github.com/CODAIT/MAX-SVL-Workshop/blob/master/Exploring_MAX/Exploring%2
 
 ## Long-running instances and sample app: 
 
-https://docs.google.com/spreadsheets/d/12Xwb7ECs0Ae_oUMfonR0xsJLqZA-a6aigPkclWxV5mU/edit?usp=sharing
+[Long running instances links](long_running_instances.md)
 
 # TO DO
 
